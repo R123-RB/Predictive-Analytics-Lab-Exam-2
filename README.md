@@ -16,24 +16,6 @@
 
 ---
 
-## ⚙️ Setup
-
-Install dependencies:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-Then open the notebook:
-
-```bash
-jupyter notebook Predictive_Analytics_Classification_Model.ipynb
-```
-
-Run all cells top to bottom (**Kernel → Restart & Run All**).
-
----
-
 ## 📊 Dataset
 
 | Property | Value |
